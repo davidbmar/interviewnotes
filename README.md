@@ -3,6 +3,7 @@
 Interview has 5 parts.
 
 #1 : Code review assessment
+----------------------------
 
 Review code, and see what the team is doing, and watch how employees and team are interacting together. 
 
@@ -17,14 +18,14 @@ Not about the language in the PR.
 
 ---
 #2 : Systems design panel.
-
+----------------------------
 Trade offs, is this write heavy is this read heavy.  Talk about this and settle on this.  
 
 Amazon Systems Design test.  API design.  What systems design patterns are you putting in place.  What database, what caching mechanism.  Blast radius, etc.  
 
 ---
 #3 : Architectural peer panel.  
-
+----------------------------
 Provide us the prompt, or ask for a project that you’ve worked on in the past.  What tools did you employ to tackle the problem, what were the road blocks, did you have to pivot.  What would you do differently if you had to do it again.
 
 Share screen.  Labels and arrows.  
@@ -33,10 +34,14 @@ Have the project that you have in mind.  -  something decently complicated, that
 
 ----
 #4 : Manager panel 
+
+----------------------------
 Identif talent
 Coach people
 Fire someone
-What did that process look like.
+
+
+----------------------------What did that process look like.
 
 ----
 #5 : Hiring Manager interview : Review scorecards, and questions.
